@@ -1,5 +1,5 @@
-'''Tuc tac toe program attempt!
-Author: Cristian Avendaño (and Bro. Manley! Seriously, I went in circles over this, making it too complicated, your solution is MUCH simpler)'''
+'''Tic tac toe program attempt!
+Author: Bro. Manley! (I mean, should be Cristian Avendaño but seriously, I went in circles over this, making it too complicated, your solution is MUCH simpler)'''
 
 def main():
     player = next_player("")
